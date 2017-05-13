@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                get address with  GFAddreessPicker
                    DESC
 
-  s.homepage     = "https://github.com/JiGaoFei/GFAddressPickerView"
+  s.homepage     = "https://github.com/JiGaoFei/GFAddressPickerVi"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
